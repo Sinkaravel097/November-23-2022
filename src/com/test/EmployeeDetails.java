@@ -11,7 +11,8 @@ public class EmployeeDetails {
 		System.out.println(5);
 		System.out.println(10);
 		System.out.println(12);
-		System.out.println(30);		
+		System.out.println(30);
+		System.out.println(6);
 		
 	} 
 	
